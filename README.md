@@ -1,9 +1,3 @@
-# Automated Security Incident Response
-Setting up an Automated Security Incident Response system is a critical project in DevSecOps, enabling faster responses to security incidents, reducing manual intervention, and ensuring consistent handling of threats.
-This guide will walk me through setting up an automated response system using AWS Lambda functions for triggering alerts, isolating compromised resources, logging incidents, and integrating with SIEM system.
-
-I will demonstrate with AWS as an example platform, but similar steps apply in Azure with Azure Functions.
-
 Setting up an **Automated Security Incident Response** system is a critical project in DevSecOps, enabling faster responses to security incidents, reducing manual intervention, and ensuring consistent handling of threats. This guide will walk you through setting up an automated response system using AWS Lambda functions for triggering alerts, isolating compromised resources, logging incidents, and integrating with a SIEM system. 
 
 I’ll demonstrate with AWS as an example platform, but similar steps apply in Azure with Azure Functions.
